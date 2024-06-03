@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br" class="">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>    
+    <link rel="shortcut icon" href="./assets/FaviconB3.svg" type="image/x-svg">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Temporizador estilo pomodoro">
+    <title>Focus Timer 2.0</title>
+    <link rel="stylesheet" href="./style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <script type="module" src="./src/main.js" defer></script>
+</head>
+<body>
+    <div id="app">
+        <section id="timer" class="flex">
+            <section id="time" class="flex">
+                <span id="minutes" contenteditable="false">00</span>
+                <span>:</span>
+                <span id="seconds">00</span>
+            </section>
+
+            <section id="controls" class="flex">
+                <button
+                    data-action="toggleRunning" 
+                    class="ph ph-play-circle">
+                    <span class="sr-only">Iniciar contador</span>
+                </button>
+                <button 
+                    data-action="toggleRunning"
+                    class="ph ph-pause-circle">
+                    <span class="sr-only">Pausar contador</span>
+                </button>
+                <button 
+                    data-action="set"
+                    class="ph ph-timer">
+                    <span class="sr-only">Ajustar contador</span>
+                </button>
+                <button 
+                    data-action="add5"
+                    class="ph ph-plus-circle">
+                    <span class="sr-only">Adiciona 5 minutos</span>
+                </button>
+                <button 
+                    data-action="decrease5"
+                    class="ph ph-minus-circle">
+                    <span class="sr-only">Remove 5 minutos</span>
+                </button>
+            </section>
+        </section>
+
+        <section id="sounds">
+            <button id="forestSound"
+                data-action="toggleForest"
+                class="ph ph-tree">
+                <span class="sr-only">Inicia ou para a floresta</span>
+            </button>
+            <button id="rainSound"
+                data-action="toggleRain"
+                class="ph ph-cloud-rain">
+                <span class="sr-only">Inicia ou para a chuva</span>
+            </button>
+            <button id="cafeteriaSound"
+                data-action="toggleCafeteria"
+                class="ph ph-coffee"> <!-- Minha namorada quem mandou trocar os ícones. -->
+                <span class="sr-only">Inicia ou para a cafeteria</span>
+            </button>
+            <button id="fireplaceSound"
+                data-action="toggleFireplace"
+                class="ph ph-campfire">
+                <span class="sr-only">Inicia ou para a lareira</span>
+            </button>
+        </section>
+    </div>
+</body>
+</html>

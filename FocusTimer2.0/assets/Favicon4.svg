@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="87mm" height="87mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8700 8700"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#FEFEFE}
+    .fil1 {fill:#373435}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2128414037232">
+   <path class="fil0" d="M6751 2100c0,1326 -1074,2400 -2400,2400 -1160,0 -2100,941 -2100,2100 0,1160 940,2100 2100,2100 2403,0 4350,-1947 4350,-4350 0,-1843 -1146,-3418 -2765,-4052 500,440 815,1084 815,1802zm-1900 4500c0,277 -224,500 -500,500 -276,0 -500,-223 -500,-500 0,-276 224,-500 500,-500 276,0 500,224 500,500z"/>
+   <circle class="fil0" cx="4351" cy="2100" r="500"/>
+   <circle class="fil1" cx="4351" cy="6600" r="500"/>
+   <path class="fil1" d="M1951 6600c0,-1325 1075,-2400 2400,-2400 1160,0 2100,-940 2100,-2100 0,-1159 -940,-2100 -2100,-2100 -2402,0 -4350,1948 -4350,4350 0,1844 1147,3419 2765,4053 -499,-440 -815,-1084 -815,-1803zm1900 -4500c0,-276 224,-500 500,-500 276,0 500,224 500,500 0,277 -224,500 -500,500 -276,0 -500,-223 -500,-500z"/>
+   <rect class="fil0" x="4226" y="100" width="250" height="800" rx="125" ry="180"/>
+   <rect class="fil1" transform="matrix(8.17706E-14 -1.08771 1.56863 1.75432E-15 7801.31 4475.46)" width="230" height="510" rx="115" ry="115"/>
+   <rect class="fil0" transform="matrix(-1.39386E-13 1.08771 -1.56863 -8.48431E-14 901.33 4225.46)" width="230" height="510" rx="115" ry="115"/>
+   <rect class="fil1" x="4226" y="7800" width="250" height="800" rx="125" ry="180"/>
+   <rect class="fil1" transform="matrix(0.941987 -0.543857 0.392157 0.679236 6168.07 7747.17)" width="230" height="510" rx="115" ry="115"/>
+   <rect class="fil1" transform="matrix(0.543857 -0.941987 0.679236 0.392157 7623.02 6383.72)" width="230" height="510" rx="115" ry="115"/>
+   <rect class="fil1" transform="matrix(-0.543857 -0.941987 0.679236 -0.392157 7748.02 2533.72)" width="230" height="510" rx="115" ry="115"/>
+   <rect class="fil1" transform="matrix(-0.941987 -0.543857 0.392157 -0.679236 6384.57 1078.77)" width="230" height="510" rx="115" ry="115"/>
+   <g>
+    <rect class="fil1" transform="matrix(0.218466 -1.11261 1.30384 0.256015 4081.69 4477.98)" width="353" height="2258" rx="176" ry="176"/>
+    <rect class="fil0" transform="matrix(-0.905486 0.682432 -0.53315 -0.707412 4582.41 4348.58)" width="353" height="2258" rx="176" ry="176"/>
+   </g>
+  </g>
+ </g>
+</svg>
